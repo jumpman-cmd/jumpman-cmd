@@ -1,9 +1,9 @@
 ## Hey there! 👋
 
-- Welcome to my GitHub profile! I'm a final-year Computer Science student passionate about software development, weave magic with code.🧙‍♂️ Let's code... 🚀
+- Welcome to my GitHub profile! I'm a final-year Computer Science student passionate about software development, weave magic with code.🧙‍♂️ Let's code...🚀
 
-- I enjoy creating algorithms and innovative solutions, and I'm always looking to improve my skills... 💻
+- I enjoy creating algorithms and simple solutions, and I'm always looking to improve my skills...💻
 
 - Join me on my journey through the world of programming. Let's work together to build something great.
 
-- Stay tuned for new projects and discoveries as I continue to learn and grow in the field of coding. #FinalYearCS 🔮 Let's Keep coding and stay nerdy! #CodeWizard #FinalYearCS 🤓
+- Stay tuned for new projects and discoveries as I continue to learn and grow in the field of coding.🔮 Let's Keep coding and stay nerdy! #CodeWizard #FinalYearCS 🤓
