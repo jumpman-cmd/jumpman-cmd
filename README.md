@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-- Welcome to my GitHub profile! I'm a final-year Computer Science student passionate about software development, weave magic with code.🧙‍♂️ Let's code...🚀
+- Welcome to my GitHub profile! I'm a final-year Computer Science student passionate about software development and cyber security, weave magic with code.🧙‍♂️ Let's code...🚀
 
 - I enjoy creating algorithms and simple solutions, and I'm always looking to improve my skills...💻
 
