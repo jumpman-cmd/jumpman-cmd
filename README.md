@@ -7,4 +7,4 @@
 
 - Join me on my journey through the world of programming. Let's work together to build something great.
 
-- Stay tuned for new projects and discoveries as I continue to learn and grow in the field of coding.🔮 Let's Keep coding and stay nerdy!🤓
+- Stay tuned for new projects and discoveries as I continue to learn and grow in the field of coding.🔮 Let's Keep coding!
