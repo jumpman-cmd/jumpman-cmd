@@ -1,4 +1,5 @@
-## Hey there! 👋 
+## Attention, Tech Visionaries! 🔍⚡👋 
+
 **`Digital Maestro (Work-Of-Art)`**
 
 - Welcome to my GitHub profile! I'm a senior Computer Science student passionate about software development, ethical hacking, and operations. 🚀
