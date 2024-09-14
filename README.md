@@ -16,7 +16,6 @@
     <div style="text-align: center; padding-right: 20px;">
         <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
         <div>JAVA</div>
-    </div>
     <div style="text-align: center; padding-right: 20px;">
         <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
         <div>LINUX</div>
