@@ -12,7 +12,7 @@
   
 - Let's Code! 💻🚀
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools 🛠️
 <br/>
 <img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Linux" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
