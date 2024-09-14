@@ -39,7 +39,7 @@
 <img align="left" alt="Bash" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
 <img align="left" alt="GitHub" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Git" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /><br/><br/>
-<br/> <br/> <br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/>
 <br/>
 <br/>
 <br/>
