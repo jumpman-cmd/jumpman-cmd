@@ -4,13 +4,13 @@
 
 - Welcome to my GitHub profile! I'm a senior Computer Science student passionate about software development, ethical hacking, and operations. 🚀
 
-- As a DevSecOps enthusiast, I enjoy keeping it buff—I'm talking about the code, not muscles. 💪💪😂😂
+- As a tech enthusiast, I enjoy keeping it buff—I'm talking about the code, not muscles. 💪💪😂😂
 
 - I enjoy creating algorithms and simple solutions, and I'm always looking to improve my skills... 💻
 
 - Join me on my journey through the world of programming. Let's work together to build something great. 🛤️🖥️
   
-- Let's Code!💻🚀
+- Let's Code! 💻🚀
 
 ### 🧰 Languages and Tools
 <br/>
