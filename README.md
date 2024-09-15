@@ -52,6 +52,7 @@
 <!-- BEGIN GITHUB STATS -->
 ### 🚀 GITHUB ACTIVITY & STREAKS 📊🔥
 <br/>
+
 ![jumpman-cmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpman-cmd&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jumpman-cmd&theme=gruvbox&border_radius=4.5)
