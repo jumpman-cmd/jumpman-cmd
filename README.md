@@ -2,7 +2,7 @@
 
 **`Digital Maestro (Work-Of-Art)`**
 
-- Welcome to my GitHub profile! I'm a senior Computer Science student passionate about software development, ethical hacking, and operations. 🚀
+- Welcome to my GitHub profile! I'm a Computer Science Senior passionate about software development, ethical hacking, and operations. 🚀
 
 - As a tech enthusiast, I enjoy keeping it buff—I'm talking about the code, not muscles. 💪💪😂😂
 
@@ -42,7 +42,7 @@
 <img align="left" alt="Bash" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
 <img align="left" alt="GitHub" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Git" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /><br/><br/>
-<br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/>
 <br/>
 <br/>
 <br/>
