@@ -12,6 +12,8 @@
   
 - Let's Code! 💻🚀
 
+#
+
 ### 🧰 Languages
 <br/>
 <img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -28,6 +30,7 @@
 <br/>
 <br/>
 
+#
 
 ### Tools 🛠️
 <img align="left" alt="Oracle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
@@ -47,9 +50,11 @@
 #
 
 <!-- BEGIN GITHUB STATS -->
-### 📊 Stats
+### 🚀 GITHUB ACTIVITY & STREAKS 📊🔥
 
 ![jumpman-cmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpman-cmd&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jumpman-cmd&theme=gruvbox&border_radius=4.5)
 <!-- END GITHUB STATS -->
+
+#
