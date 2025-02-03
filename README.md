@@ -2,7 +2,7 @@
 
 **`Digital Maestro (Work-Of-Art)`**
 
-- Welcome to my GitHub profile! I'm a Computer Science Senior passionate about software development, ethical hacking, and operations. 🚀
+- Welcome to my GitHub profile! 🚀
 
 - As a tech enthusiast, I enjoy keeping it buff—I'm talking about the code, not muscles. 💪💪😂😂
 
