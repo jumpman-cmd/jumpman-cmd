@@ -57,4 +57,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=jumpman-cmd&theme=gruvbox&border_radius=4.5)
 <!-- END GITHUB STATS -->
 
+<div align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72A1DE&width=435&lines=Building+scalable+web+apps;Passionate+about+UI%2FUX;Always+learning+%F0%9F%93%9A" alt="Typing animation" />  
+</div>  
+
 #
