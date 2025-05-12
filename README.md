@@ -89,20 +89,19 @@
 <summary>💡 Profile visitors</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/29td/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/jumpman-cmd/count.svg">
 </div>
 </details>
 
   
 ## :book: Message Me </h2>
-<p> Say Hi To A Fellow Bro! 🚀 <a href="https://github.com/29td/29td/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p> Say Hi To A Fellow Bro! 🚀 <a href="https://github.com/jumpman-cmd/jumpman-cmd/issues/new?template=guestbook-entry.md">Here</a>!</p>
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
 		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carshy/Carshy/blob/master/icon/footer.png"></div>
 
 <div align="center">  
@@ -110,3 +109,4 @@
 </div>  
 
 #
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="Back to top⬆" /></a></p>
