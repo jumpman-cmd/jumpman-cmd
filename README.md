@@ -75,7 +75,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details> -->
 
-<details>
+<!-- <details>
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
 	<a href="https://github.com/29td/29td"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=29td&repo=29td&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
@@ -91,7 +91,7 @@
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/jumpman-cmd/count.svg">
 </div>
-</details>
+</details> -->
 
   
 ## :book: Message Me </h2>
@@ -99,13 +99,13 @@
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+		<img alt="Hope you find something cool here!" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Hope+you+find+something+cool+here!" ></a>
 </div>
 
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carshy/Carshy/blob/master/icon/footer.png"></div>
+<!-- <div align="center" ><img alt="" width="100%" src="https://github.com/Carshy/Carshy/blob/master/icon/footer.png"></div> -->
 
 <div align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72A1DE&width=435&lines=Building+scalable+web+apps;Passionate+about+UI%2FUX;Always+learning+%F0%9F%93%9A" alt="Typing animation" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72A1DE&width=435&lines=Building+scalable+web+apps;Passionate+about+Dev+and+PenTest;Always+learning+%F0%9F%93%9A" alt="Typing animation" />  
 </div>  
 
 #
