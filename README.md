@@ -59,9 +59,6 @@
 <br/>
 
 ![jumpman-cmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumpman-cmd&show_icons=true&theme=gruvbox)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jumpman-cmd&theme=gruvbox&border_radius=4.5)
-
   
 ## :book: Message Me </h2>
 <p> Say Hi To A Fellow Bro! 🚀 <a href="https://github.com/jumpman-cmd/jumpman-cmd/issues/new?template=guestbook-entry.md">Here</a>!</p>
