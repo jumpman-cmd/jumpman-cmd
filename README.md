@@ -74,8 +74,5 @@
 </div>
 <hr>
 <div align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72A1DE&width=435&lines=Creating+next-gen+high-performing+websites;Passionate+about+Dev+and+PenTest;Always+learning+%F0%9F%93%9A" alt="Typing animation" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72A1DE&width=435&lines=Coding+next-gen+high-performing+apps;Passionate+about+Dev+and+PenTest;Always+learning+%F0%9F%93%9A" alt="Typing animation" />  
 </div>  
-
-#
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top+⬆&color=7E3ACE&style=flat&logo" alt="Back to top⬆" /></a></p>
