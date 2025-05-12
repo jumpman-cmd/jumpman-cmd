@@ -63,10 +63,10 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=jumpman-cmd&theme=gruvbox&border_radius=4.5)
 <!-- END GITHUB STATS -->
 
-## &#x1f4c8; Github stats
+<!-- ## &#x1f4c8; Github stats -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
+<!-- <details> -->
 	<!-- <summary>💻 GitHub Profile Stats</summary>
 	<br/>
 	<a href="https://github.com/29td/29td"><img alt="Musoko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=29td&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
@@ -99,7 +99,9 @@
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img alt="Hope you find something cool here!" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Hope+you+find+something+cool+here!" ></a>
+		<img alt="Hope you find something cool here!" 
+             src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=500&lines=Hope+you+find+something+cool+here!" />
+	</a>
 </div>
 
 <!-- <div align="center" ><img alt="" width="100%" src="https://github.com/Carshy/Carshy/blob/master/icon/footer.png"></div> -->
